@@ -1,4 +1,9 @@
 # Network Reconnaissance Lab
+## Disclaimer
+This lab was performed in an isolated virtual environment 
+for educational purposes only. All testing was performed 
+on intentionally vulnerable software with no real systems 
+or networks affected.
 
 ## Overview
 Deployed an isolated virtual lab environment using VirtualBox to perform 
